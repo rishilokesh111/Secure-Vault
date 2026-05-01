@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# SecureVault Sensitive Data
+data/
+vault/
+settings.bin
+test.bin
+*.zip
+attempts.log
+otp_history.json
+hash.txt
+
+# Build and IDE
+build/
+dist/
+*.spec
+.vscode/
+.idea/
+.gemini/
+
+# Misc
+*.exe
+old versions/
+scratch/
+inno script/
+app_backup.py
