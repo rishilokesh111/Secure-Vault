@@ -2,7 +2,8 @@
 
 **Secure Vault** is a premium, high-security desktop application designed to protect your sensitive folders with military-grade encryption, smart authentication, and automated defense mechanisms.
 
-![Banner](assets/shield_bg.jpg) *(Example path)*
+![SecureVault Login](website/assets/gallery_login.png)
+![SecureVault Dashboard](website/assets/gallery_dashboard.png)
 
 ## ✨ Key Features
 
