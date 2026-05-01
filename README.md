@@ -44,10 +44,10 @@
    ```bash
    python main.py
    ```
-4. **website - Downlode the .exe file from here**:
-   '''bash
+3. **website to downlode .exe file**:
+   ```bash
    https://securevaultdownlode.netlify.app/
-   '''
+   ```
    
 ## ⚙️ Configuration
 
